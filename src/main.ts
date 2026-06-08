@@ -261,7 +261,6 @@ function renderGarden(guest: Guest): void {
         </section>
 
         <section class="note-panel" aria-labelledby="note-title">
-          <h2 id="note-title">First Bloom</h2>
           <p>${escapeHtml(firstMessage)}</p>
         </section>
 

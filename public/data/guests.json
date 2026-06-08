@@ -1,51 +1,21 @@
 {
   "universalMessages": [
-    "Your care helps students feel steady, known, and ready.",
-    "Thank you for protecting dignity in every conversation.",
-    "Your patience turns hard days into possible days.",
-    "Inclusion grows because people like you keep showing up.",
-    "Every thoughtful adjustment matters more than people realize.",
-    "You make school feel more human.",
-    "Your work changes the shape of a student's day."
+    "This is a sample generic message 1.",
+    "This is a sample generic message 2.",
+    "This is a sample generic message 3."
   ],
   "guests": [
     {
-      "id": "maria-santos",
-      "passkey": "GARDEN-MARIA-2026",
-      "name": "Maria Santos",
-      "schools": ["Cedar Grove Elementary", "Maple Ridge Middle"],
+      "id": "test-guest",
+      "passkey": "GARDEN-TEST-2026",
+      "name": "Firstname Lastname",
+      "schools": ["Riverside High School", "Belle Elementary School", "DuPont Middle School"],
       "signature": "With deep appreciation from the Special Education team",
       "messages": [
-        "Maria, your calm presence gives families a place to breathe.",
-        "Students are safer to try because you notice the smallest wins.",
-        "Your meetings make complicated supports feel clear and kind.",
-        "You bring both structure and warmth to every plan."
-      ]
-    },
-    {
-      "id": "jordan-lee",
-      "passkey": "GARDEN-JORDAN-2026",
-      "name": "Jordan Lee",
-      "schools": ["Pine Hollow High", "Brookside Transition Center"],
-      "signature": "With deep appreciation from the Special Education team",
-      "messages": [
-        "Jordan, your advocacy keeps students' futures in the room.",
-        "You turn services into real pathways for real young people.",
-        "Your follow-through is quiet, consistent, and deeply valuable.",
-        "Families trust you because you listen before you solve."
-      ]
-    },
-    {
-      "id": "anya-patel",
-      "passkey": "GARDEN-ANYA-2026",
-      "name": "Anya Patel",
-      "schools": ["Riverbend Elementary", "Westfield Early Learning"],
-      "signature": "With deep appreciation from the Special Education team",
-      "messages": [
-        "Anya, you make early support feel hopeful instead of heavy.",
-        "Your kindness helps young learners build brave first steps.",
-        "You see communication in gestures, routines, smiles, and effort.",
-        "Your classroom visits leave people with practical courage."
+        "This is the sample initial message.",
+        "This is a sample message 1.",
+        "This is a sample message 2.",
+        "This is a sample message 3."
       ]
     }
   ]
