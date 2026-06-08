@@ -248,8 +248,7 @@ function renderGarden(guest: Guest): void {
 
       <main class="garden-card" id="garden-card" tabindex="0" aria-label="Appreciation garden for ${escapeAttribute(guest.name)}">
         <section class="card-copy" aria-labelledby="card-title">
-          <p class="eyebrow">Special Education Team</p>
-          <h2 id="card-title">Every student grows because of the care you bring.</h2>
+          <h2 id="card-title">You allowed flowers to bloom where they were planted.</h2>
           <p class="signature">${escapeHtml(guest.signature)}</p>
         </section>
 
