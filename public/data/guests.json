@@ -1,8 +1,45 @@
 {
   "universalMessages": [
-    "This is a sample generic message 1.",
-    "This is a sample generic message 2.",
-    "This is a sample generic message 3."
+    "Thank you for showing up with care, consistency, and purpose.",
+    "Your work makes school feel more welcoming and steady.",
+    "You help students and colleagues feel seen, supported, and capable.",
+    "The patience you bring each day matters more than you know.",
+    "Your kindness leaves a mark that lasts beyond the moment.",
+    "Thank you for finding solutions when the day gets complicated.",
+    "Your steady presence helps others breathe a little easier.",
+    "You make hard work look thoughtful, human, and possible.",
+    "Thank you for choosing encouragement, even on demanding days.",
+    "Your dedication strengthens the whole team.",
+    "You bring warmth into spaces where people need it most.",
+    "Thank you for noticing the little things that make a big difference.",
+    "Your advocacy helps students grow with confidence.",
+    "You are part of the reason good things keep happening here.",
+    "Thank you for giving your time, energy, and heart so generously.",
+    "Your professionalism sets a standard others can trust.",
+    "You make people feel like they have someone in their corner.",
+    "Thank you for staying flexible, creative, and student-centered.",
+    "Your compassion turns ordinary moments into meaningful ones.",
+    "You help build a culture where people can keep going.",
+    "Thank you for the quiet work that keeps everything moving.",
+    "Your care reaches farther than you may ever hear about.",
+    "You bring strength without losing gentleness.",
+    "Thank you for making room for growth, grace, and progress.",
+    "Your teamwork makes challenges feel lighter.",
+    "You are appreciated for the knowledge and heart you bring.",
+    "Thank you for leading with both skill and kindness.",
+    "Your encouragement helps people believe they can do the next hard thing.",
+    "You make school brighter by being part of it.",
+    "Thank you for being dependable when others need support.",
+    "Your optimism helps create momentum.",
+    "You bring calm to busy moments and care to important ones.",
+    "Thank you for helping students feel valued and capable.",
+    "Your hard work creates opportunities for others to succeed.",
+    "You make collaboration feel natural and worthwhile.",
+    "Thank you for carrying responsibility with such care.",
+    "Your example reminds others what service can look like.",
+    "You help turn plans into real support for real people.",
+    "Thank you for being generous with your experience and insight.",
+    "Your presence is a gift to this team."
   ],
   "guests": [
     {
@@ -10,12 +47,264 @@
       "passkey": "GARDEN-TEST-2026",
       "name": "Firstname Lastname",
       "schools": ["Riverside High School", "Belle Elementary School", "DuPont Middle School"],
-      "signature": "With deep appreciation from all of us.",
+      "signature": "With appreciation for every sample bloom and every note of encouragement.",
       "messages": [
         "This is the sample initial message.",
         "This is a sample message 1.",
         "This is a sample message 2.",
         "This is a sample message 3."
+      ]
+    },
+    {
+      "id": "joella-allen",
+      "passkey": "ALLEN-2026",
+      "name": "Joella Allen",
+      "schools": ["Chamberlain", "Edgewood", "Holz", "Piedmont", "Horace Mann"],
+      "signature": "With deep appreciation for your resilience, welcoming heart, and steady help for students and specialists alike.",
+      "messages": [
+        "Did NOT have to visit the principal's office.",
+        "Persevered through personal loss.",
+        "Helpful to new specialists.",
+        "Welcoming to new students.",
+        "Energetic and Strong."
+      ]
+    },
+    {
+      "id": "shannon-cannon",
+      "passkey": "CANNON-2026",
+      "name": "Shannon Cannon",
+      "schools": ["George Washington High", "Mary C. Snow Elementary"],
+      "signature": "With appreciation for the grace, kindness, refreshing energy, and unmistakable magic you bring.",
+      "messages": [
+        "Graceful under pressure.",
+        "Helpful and kind.",
+        "Refreshing vibe.",
+        "Amazing \"witch.\""
+      ]
+    },
+    {
+      "id": "amanda-fowler",
+      "passkey": "FOWLER-2026",
+      "name": "Amanda Fowler",
+      "schools": ["Belle Elementary", "Cedar Grove Elementary", "Pratt Elementary", "Sharon Dawes Elementary", "DuPont Middle"],
+      "signature": "With gratitude for your loyal, honest, student-first work and the perseverance behind it.",
+      "messages": [
+        "Dedicated and hard worker.",
+        "Kind.",
+        "Loyal and honest.",
+        "Persevered through personal challenges.",
+        "Student first!"
+      ]
+    },
+    {
+      "id": "ashley-heumann",
+      "passkey": "HEUMANN-2026",
+      "name": "Ashley Heumann",
+      "schools": ["Ruffner Elementary", "Westside Middle", "Kenna", "Weberwood"],
+      "signature": "With appreciation for your top-notch professionalism, caring strength, and calendar-level commitment.",
+      "messages": [
+        "Top notch professional.",
+        "Created the most Google calendars out of any specialist.",
+        "Kind, caring, strong.",
+        "Moving on but will be missed so much."
+      ]
+    },
+    {
+      "id": "michelle-keen",
+      "passkey": "KEEN-2026",
+      "name": "Michelle Keen",
+      "schools": ["Dunbar Primary", "Dunbar Intermediate", "Dunbar Middle", "Richmond Elementary"],
+      "signature": "With gratitude for your heart of gold, hard work, and choice to keep growing with this team.",
+      "messages": [
+        "Dedicated and hard worker.",
+        "Heart of gold.",
+        "First year with KCS.",
+        "Glad that you are part of our team and chose to stay.",
+        "One great mom!"
+      ]
+    },
+    {
+      "id": "elizabeth-bearfield",
+      "passkey": "BEARFIELD-2026",
+      "name": "Elizabeth Bearfield",
+      "schools": ["Sissonville Middle", "Sissonville High"],
+      "signature": "With appreciation for your caring dedication, relationship-building, and unmatched planning spirit.",
+      "messages": [
+        "Kind and caring",
+        "The best Halloween planner!",
+        "Repaired and rebuilt relationships.",
+        "Dedicated and hard worker."
+      ]
+    },
+    {
+      "id": "nikki-erlewine",
+      "passkey": "ERLEWINE-2026",
+      "name": "Nikki Erlewine",
+      "schools": ["South Charleston Middle", "South Charleston High"],
+      "signature": "With gratitude for your strength, caring organization, new-author courage, and perseverance.",
+      "messages": [
+        "Strong.",
+        "Caring.",
+        "A new author!",
+        "Organization queen.",
+        "Persevered through personal trials."
+      ]
+    },
+    {
+      "id": "julia-garnes",
+      "passkey": "GARNES-2026",
+      "name": "Julia Garnes",
+      "schools": ["Capital High"],
+      "signature": "With appreciation for your determination, team-minded work, gracious hosting, and clear progress.",
+      "messages": [
+        "Determined",
+        "Works for school team.",
+        "Gracious host in setting up printers for MDR's!",
+        "One year survey progress in success!"
+      ]
+    },
+    {
+      "id": "brandin-glancy",
+      "passkey": "GLANCY-2026",
+      "name": "Brandin Glancy",
+      "schools": ["Andrews Heights Elementary", "Anne Bailey Elementary", "Lakewood Elementary", "Hayes Middle"],
+      "signature": "With gratitude for your student-centered care, determination, and perseverance through difficult seasons.",
+      "messages": [
+        "Cares for students",
+        "Persevering through personal trials.",
+        "Dedicated, determined."
+      ]
+    },
+    {
+      "id": "erica-kearns",
+      "passkey": "KEARNS-2026",
+      "name": "Erica Kearns",
+      "schools": ["Clendenin", "Elk Center Elementary", "Elkview Middle"],
+      "signature": "With appreciation for your professional teamwork, student care, and strong, determined perseverance.",
+      "messages": [
+        "Team player.",
+        "Cares for students",
+        "Professional.",
+        "Strong, determined, perseverent."
+      ]
+    },
+    {
+      "id": "kim-mccune",
+      "passkey": "MCCUNE-2026",
+      "name": "Kim McCune",
+      "schools": ["Pinch Elementary", "Herbert Hoover High"],
+      "signature": "With gratitude for your dependable care, deep experience, and willingness to answer the call.",
+      "messages": [
+        "Kind and caring professional.",
+        "Answered the call when needed.",
+        "Knowledgeable and experienced.",
+        "Dependable, perseverent."
+      ]
+    },
+    {
+      "id": "crystal-pauley",
+      "passkey": "PAULEY-2026",
+      "name": "Crystal Pauley",
+      "schools": ["Chesapeake Elementary", "Kanawha City Elementary", "Malden", "Mary Ingles", "Midland Trail"],
+      "signature": "With appreciation for your persevering strength, student-outcome focus, and leadership for new specialists.",
+      "messages": [
+        "Strong, determined, perseverent.",
+        "Hard worker.",
+        "Student outcome rockstar.",
+        "New specialist leader!",
+        "Team player and professional!"
+      ]
+    },
+    {
+      "id": "nikole-ronk",
+      "passkey": "RONK-2026",
+      "name": "Nikole Ronk",
+      "schools": ["Bridgeview", "Central", "PERC"],
+      "signature": "With gratitude for your leadership, Spring Games excellence, helpful dedication, and professional teamwork.",
+      "messages": [
+        "New leadership team member!",
+        "Exceptional Spring Games rockstar.",
+        "Helpful and dedicated.",
+        "Team player and professional."
+      ]
+    },
+    {
+      "id": "jennifer-wilson",
+      "passkey": "WILSON-2026",
+      "name": "Jennifer Wilson",
+      "schools": ["Pt. Harmony Elementary", "Andrew Jackson Middle", "Alban Elementary", "Montrose Elementary"],
+      "signature": "With appreciation for your dedicated support, student advocacy, and knowledgeable encouragement.",
+      "messages": [
+        "Terrific mom!",
+        "Helpful and dedicated.",
+        "Always ready to advocate for students.",
+        "Knowledgeable, supportive, and experienced."
+      ]
+    },
+    {
+      "id": "erica-mullins",
+      "passkey": "MULLINS-2026",
+      "name": "Erica Mullins",
+      "schools": ["Cross Lanes", "Nitro Elementary", "Nitro High"],
+      "signature": "With gratitude for your student care, leadership in support, perseverance, and experienced dedication.",
+      "messages": [
+        "Cares for students.",
+        "Stepped up as a leader for student support!",
+        "Persevered through personal trials.",
+        "Dedicated, knowledgeable, experienced."
+      ]
+    },
+    {
+      "id": "candy-parsons",
+      "passkey": "PARSONS-2026",
+      "name": "Candy Parsons",
+      "schools": ["John Adams Middle", "Alum Creek Elementary", "Sissonville Elementary", "Flinn Elementary"],
+      "signature": "With appreciation for your cheerleader spirit, helpful heart, growth mindset, and loving dedication.",
+      "messages": [
+        "The ultimate cheerleader.",
+        "Always ready to help the team.",
+        "Growth mindset.",
+        "Loving, kind, dedicated.",
+        "Hard worker."
+      ]
+    },
+    {
+      "id": "judy-pray",
+      "passkey": "PRAY-2026",
+      "name": "Judy Pray",
+      "schools": ["County-wide Diagnostician"],
+      "signature": "With gratitude for your rockstar diagnostician work, family pride, and perseverance through loss.",
+      "messages": [
+        "ROCKSTAR!",
+        "No one could have a better job as the county diagnostician.",
+        "Terrific mom--a graduate and soon-to-be graduate!",
+        "Persevered through personal loss."
+      ]
+    },
+    {
+      "id": "gloria-richardson",
+      "passkey": "RICHARDSON-2026",
+      "name": "Gloria Richardson",
+      "schools": ["All Preschool"],
+      "signature": "With appreciation for your Pre-K leadership, loving dedication, encouragement, and growth mindset.",
+      "messages": [
+        "Pre-K queen.",
+        "Loving, kind, dedicated.",
+        "Supportive, encouraging.",
+        "Growth mindset."
+      ]
+    },
+    {
+      "id": "jennifer-williams",
+      "passkey": "WILLIAMS-2026",
+      "name": "Jennifer Williams",
+      "schools": ["Riverside High", "Shoals Elementary"],
+      "signature": "With gratitude for your organization, growth mindset, perseverance, and helpful dedication.",
+      "messages": [
+        "Organized.",
+        "Growth mindset.",
+        "Persevered through personal challenges.",
+        "Helpful, dedicated."
       ]
     }
   ]
