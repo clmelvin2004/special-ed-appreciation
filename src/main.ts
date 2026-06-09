@@ -228,7 +228,7 @@ function openGarden(guest: Guest): void {
 
 function renderGarden(guest: Guest): void {
   const allMessages = getMessagesForGuest(guest);
-  const firstMessage = allMessages[0] ?? 'Thank you for all you do.';
+  const signatureMessage = 'Thank you for all you do and then some.';
 
   app.innerHTML = `
     <div class="app-shell">
@@ -260,7 +260,7 @@ function renderGarden(guest: Guest): void {
         </section>
 
         <section class="note-panel" aria-labelledby="note-title">
-          <p>${escapeHtml(firstMessage)}</p>
+          <p>${escapeHtml(signatureMessage)}</p>
         </section>
 
         <section class="garden-stage" aria-label="Blooming appreciation garden">
