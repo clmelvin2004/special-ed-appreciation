@@ -306,6 +306,21 @@
         "Persevered through personal challenges.",
         "Helpful, dedicated."
       ]
+    },
+    {
+      "id": "kelley-melvin",
+      "passkey": "MELVIN-2026",
+      "name": "Kelley Melvin",
+      "schools": ["Riverside High", "Belle Elementary", "DuPont Middle", "University of Virginia"],
+      "signature": "With much gratitude and appreciation from the rest of the team and your son. I would not be half the man I am today if not for you.",
+      "messages": [
+        "Dedicated and hard worker.",
+        "Perseverent in even the darkest of days and the hardest of trials.",
+        "Helpful to new specialists.",
+        "Just in every right way.",
+        "Growth mindset.",
+        "Model leader and icon."
+      ]
     }
   ]
 }
