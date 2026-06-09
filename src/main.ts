@@ -227,7 +227,7 @@ function openGarden(guest: Guest): void {
 }
 
 function renderGarden(guest: Guest): void {
-  const allMessages = getMessagesForGuest(guest);
+  //const allMessages = getMessagesForGuest(guest);
   const signatureMessage = 'Thank you for all you do and then some.';
 
   app.innerHTML = `
